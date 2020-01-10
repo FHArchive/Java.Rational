@@ -19,7 +19,7 @@
 
 
 Implements fractions (or rationals) in Java. Includes arithmetic functions, toString, equals, and hashCode
-## Methods 
+## Methods
 ```java
 - setNum(int num) > void: [none]
 - getNum() > int: num
@@ -39,7 +39,7 @@ Implements fractions (or rationals) in Java. Includes arithmetic functions, toSt
 
 ## Download
 ### Clone
-#### Using The Command Line 
+#### Using The Command Line
 1. Press the Clone or download button in the top right
 2. Copy the URL (link)
 3. Open the command line and change directory to where you wish to clone to
@@ -48,15 +48,15 @@ Implements fractions (or rationals) in Java. Includes arithmetic functions, toSt
 $ git clone https://github.com/[user-name]/[repository]
 ```
 
-More information can be found at 
-<https://help.github.com/en/articles/cloning-a-repository> 
+More information can be found at
+<https://help.github.com/en/articles/cloning-a-repository>
 
 #### Using GitHub Desktop
 1. Press the Clone or download button in the top right
 2. Click open in desktop
 3. Choose the path for where you want and click Clone
 
-More information can be found at 
+More information can be found at
 <https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop>
 
 ### Download Zip File
@@ -66,21 +66,21 @@ More information can be found at
 3. Copy/ move to the desired location
 
 
-## Language information 
+## Language information
 ### Built for
-This program has been written in Java using Eclipse Neon Release (4.6.0) on 
-Windows 10 
+This program has been written in Java using Eclipse Neon Release (4.6.0) on
+Windows 10
 <http://archive.eclipse.org/eclipse/downloads/drops4/R-4.6-201606061100/> .
 ### Other versions
-To install the latest version of eclipse go to 
-<https://www.eclipse.org/downloads/packages/installer> and follow the 
+To install the latest version of eclipse go to
+<https://www.eclipse.org/downloads/packages/installer> and follow the
 instructions on the page.
 ## How to run
-### Method 1 
+### Method 1
 1. Import the project directory (containing the bin and src directories)
 - Click File> Import
 - Select Projects from Folder or Archive, click next
-- Select Directory and navigate to the project directory (select ok) 
+- Select Directory and navigate to the project directory (select ok)
 - Ensure Search for nested projects is ticked
 - Click Finish
 2. Run the program with Ctrl + F11
@@ -91,9 +91,7 @@ instructions on the page.
 
 
 
-## Licence 
+## Licence
 MIT License
 Copyright (c) FredHappyface
 (See the [LICENSE](/LICENSE.md) for more information.)
-
-
